@@ -1,3 +1,7 @@
-source "https://rubygems.org"
+# source "https://rubygems.org"
+source 'https://gems.ruby-china.com'
 
-gem 'jekyll', '~> 3.8.1'
+gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
+gem 'jekyll-feed'
+gemspec

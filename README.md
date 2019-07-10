@@ -1,3 +1,4 @@
-# First Blog  
+# Asha's Blog  
 
-首次尝试制作并在github中部署博客，请多指教
+小小的blog  
+Just For Fun
