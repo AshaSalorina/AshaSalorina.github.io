@@ -9,9 +9,8 @@ categories: jekyll update
 今天折腾了一晚上，先记住以下几个命令  
 
 ```bash
-jekyll server  
 bundle install
-bundle clean --force
+bundle exec jekyll s
 ```
 
 之后持续更新...
