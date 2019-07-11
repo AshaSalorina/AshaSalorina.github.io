@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "企业实训-利用Spark-ALS实现推荐功能"
-date:   2019-07-11 15:40:00 +0800
+date:   2019-07-11 17:14:00 +0800
 categories: study
 img: https://i.loli.net/2019/07/11/5d26582f5d69d58772.png
 ---
@@ -13,9 +13,13 @@ img: https://i.loli.net/2019/07/11/5d26582f5d69d58772.png
 &emsp;2.训练模型  
 &emsp;3.使用模型来进行推荐  
 
-在开始之前，请引用以下库：  
+在开始之前，请添加并引用以下库(版本请自行调整)：  
 
 ```scala
+// build.sbt
+libraryDependencies += "org.apache.spark" % "spark-mllib_2.12" % "2.4.3"
+
+// your-code.scala
 import org.apache.spark.mllib.recommendation.ALS
 import org.apache.spark.mllib.recommendation.Rating
 ```
