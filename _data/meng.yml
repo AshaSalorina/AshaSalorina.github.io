@@ -24,8 +24,8 @@ background: # Meng background
   switch: true
   background_img: "https://i.loli.net/2019/07/11/5d265562f327b98350.jpg"
   transparent_header: true
-  transparent_footer: false
-  text_color: '#000'
+  transparent_footer: true
+  text_color: '#00CCFF'
 
 card: # Meng card
   switch: true
