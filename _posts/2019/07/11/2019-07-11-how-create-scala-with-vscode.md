@@ -8,10 +8,10 @@ img: https://i.loli.net/2019/07/11/5d26582f5d69d58772.png
 
 ## 需要的VSCode插件
 
-|插件名称|作者名称|  
-|----|----|
-|Scala(sbt) |@Lightbend|  
-|Scala Language Server |@Iulian Dragos|
+| 插件名称              | 作者名称       |
+| --------------------- | -------------- |
+| Scala(sbt)            | @Lightbend     |
+| Scala Language Server | @Iulian Dragos |
 
 ----
 
