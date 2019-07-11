@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to create a blog"
-date:   2019-07-11 03:49:00 +0900
+date:   2019-07-11 03:49:00 +0800
 categories: jekyll update
 ---
 ## 如何构筑一个博客  
