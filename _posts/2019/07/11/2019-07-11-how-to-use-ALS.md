@@ -69,13 +69,13 @@ u.item
 ALS.recommend有4种推荐方式
 
 ```scala
-//userID,Num:给用户推荐产品
+//userID,Num:给用户推荐N个产品
 modle.recommendProducts(1,5)
-//Num:为所有用户推荐产品
+//Num:为所有用户推荐N个产品
 modle.recommendProductsForUsers(5)
-//movieId,Num:为产品挑选合适的用户
+//movieId,Num:为产品挑选合适的N个用户
 modle.recommendUsers(1,5)
-//Num:为所有产品挑选合适的用户
+//Num:为所有产品挑选合适的N个用户
 modle.recommendUsersForProducts(5)
 ```
 
